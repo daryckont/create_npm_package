@@ -1,0 +1,19 @@
+{
+  "name": "hello_foxy",
+  "version": "1.0.0",
+  "description": "\"A friendly greeting to our foxy friend\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daryckont/create_npm_package.git"
+  },
+  "author": "daryckont",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daryckont/create_npm_package/issues"
+  },
+  "homepage": "https://github.com/daryckont/create_npm_package#readme"
+}
